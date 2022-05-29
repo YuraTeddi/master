@@ -1,3 +1,4 @@
 let myName;[
-    myName=lol
+    name = ds,1
 ]
+console.log('hello world')
